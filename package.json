@@ -1,0 +1,23 @@
+{
+  "name": "imincat",
+  "version": "1.0.0",
+  "description": "微信个人公众号",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DallenCat/iminCat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DallenCat/iminCat/issues"
+  },
+  "homepage": "https://github.com/DallenCat/iminCat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
